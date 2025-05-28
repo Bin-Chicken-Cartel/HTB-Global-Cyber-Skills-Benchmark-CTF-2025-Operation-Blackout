@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains comprehensive write-ups for the **Global Cyber Skills Benchmark CTF 2025: Operation Blackout** hosted by HackTheBox. These write-ups provide detailed solutions and methodologies for various cybersecurity challenges across multiple categories.
+This repository contains comprehensive write-ups for the **Global Cyber Skills Benchmark CTF 2025: Operation Blackout** hosted by HackTheBox, that we were able to complete - we were unable to complete all challenges of the event. These write-ups provide detailed solutions and methodologies for various cybersecurity challenges across multiple categories.
 
 ## Event Information
 
