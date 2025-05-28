@@ -121,6 +121,11 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 - [Team HTB Profile](https://ctf.hackthebox.com/team/overview/225156)
 - [Repository](https://github.com/Bin-Chicken-Cartel/HTB-Cyber-Apocalypse-CTF-2025.git)
 
+
+## AI Disclaimer
+
+These write-ups were formatted and structured with the assistance of artificial intelligence (AI) to ensure consistency in styling and layout. All technical content has been thoroughly reviewed and validated by the author to maintain accuracy and clarity. This AI-powered process is intended solely to enhance readability and support junior engineers in following the methodologies more easily—every solution remains the product of expert analysis.
+
 ## Acknowledgments
 
 Special thanks to HackTheBox for organizing this comprehensive CTF event and providing an excellent platform for cybersecurity education and skill development.
