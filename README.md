@@ -114,13 +114,6 @@ All techniques and exploits documented in these write-ups are for educational pu
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-If you find any errors or have suggestions for improvements, please feel free to:
-- Submit issues for corrections
-- Propose enhancements to existing write-ups
-- Share alternative solution approaches
-
 ## 🔗 Useful Links
 
 - [Official CTF Event Page](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)
