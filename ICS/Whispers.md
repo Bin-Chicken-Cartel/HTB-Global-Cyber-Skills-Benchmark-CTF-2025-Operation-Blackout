@@ -2,7 +2,7 @@
 
 ## Challenge Overview
 
-**Challenge Name:** HVAC Data Exfiltration  
+**Challenge Name:** Whispers HVAC Data Exfiltration  
 **Category:** ICS / Network Forensics / Steganography  
 **Difficulty:** very easy  
 **Files Provided:** `hvac.pcap`  

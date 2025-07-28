@@ -297,4 +297,4 @@ def detect_tls_injection():
 - **TLS Callback Analysis:** Examining thread-local storage mechanisms
 - **Hex Data Analysis:** Converting binary data to meaningful information
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069) & ## Write-Up Credit: [SR20DET](https://ctf.hackthebox.com/user/profile/605510)
